@@ -1,0 +1,11 @@
+h1 {
+    color: red;
+    font-size: 100px;
+    margin: 0;
+    background-color: slategray;
+    text-align: center;
+}
+p {
+    color: #fff;
+    background-color: black;
+}
