@@ -27,7 +27,7 @@ ul {
 ul li 
     {list-style: none;
     display: inline-block;
-    float: left;
+    float: none;
     line-height: 100px;
 
     
